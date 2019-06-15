@@ -7,6 +7,8 @@
 
 3.https://www.logoaa.com  icon制作网站，要收费！！！！你可以凭本事拿到图片。
 
+4.https://www.photopea.com 在线作图
+
 #### 字体
 1.http://fontmap.ideo.com 字体网站，目前只支持英文
 
